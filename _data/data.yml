@@ -71,7 +71,7 @@ education:
     title: Образование
     info:
       - degree: Нейропсихолог
-        university: МГППУ
+        university: МГППУ, Москва
         time: 2022 - 2023
 #        details: |
 #          Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -83,7 +83,7 @@ education:
 #            - Bullet point
 
       - degree: Педагог-психолог
-        university: АГУ
+        university: АГУ, Астрахань
         time: 2008 - 2013
 #        details: |
 #          Describe your study here lorem ipsum dolor sit amet, consectetuer
